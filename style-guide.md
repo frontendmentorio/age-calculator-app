@@ -13,16 +13,16 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Purple: hsl(259, 100%, 65%)
-- Light red: hsl(0, 100%, 67%)
+- Purple 500: hsl(259, 100%, 65%)
+- Red 400: hsl(0, 100%, 67%)
 
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
-- Off white: hsl(0, 0%, 94%)
-- Light grey: hsl(0, 0%, 86%)
-- Smokey grey: hsl(0, 1%, 44%)
-- Off black: hsl(0, 0%, 8%)
+- White: hsl(0, 100%, 100%)
+- Grey 100: hsl(0, 0%, 94%)
+- Grey 200: hsl(0, 0%, 86%)
+- Grey 500: hsl(0, 1%, 44%)
+- Black: hsl(0, 0%, 0%)
 
 ## Typography
 
